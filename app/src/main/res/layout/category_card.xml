@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/Button_category"
+        android:layout_width="wrap_content"
+        android:minHeight="0dp"
+        android:minWidth="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/category_background"
+        android:textSize="14sp"
+        android:paddingStart="18dp"
+        android:paddingEnd="18dp"
+        android:padding="8dp"
+        android:textAllCaps="false"
+        android:stateListAnimator="@null"
+        android:layout_gravity="center"
+        android:textColor="@color/light_grey"
+        android:layout_marginStart="6dp" />
+
+</LinearLayout>

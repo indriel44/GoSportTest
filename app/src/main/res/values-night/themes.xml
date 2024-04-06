@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GoSportTest" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFFFFFFF</item>
+        <item name="colorPrimaryDark">#FFF6CFD8</item>
+        <item name="colorAccent">#FFFD3A69</item>
+    </style>
+</resources>
